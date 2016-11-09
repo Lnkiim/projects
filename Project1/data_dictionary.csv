@@ -1,0 +1,6 @@
+Data Dictionary for Database,_,__,___
+COLUMN NAME,DATA TYPE,LENGTH,DESCRIPTION
+State,String,51,State abbreviation for all states and D.C.
+Rate,Integer,51,Percentage of all eligible people who participate in taking the SAT by state
+Verbal,Integer,51,State's average score on the verbal section of SAT
+Math,Integer,51,State's average score on the math  section of SAT
